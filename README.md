@@ -1,4 +1,4 @@
-Hi 👋 My name is Samet Sarıal
+Hi 👋 My name is Samet
 =============================
 
 * 🌍  I'm based in Turkey
