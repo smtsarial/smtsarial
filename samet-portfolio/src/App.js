@@ -22,7 +22,7 @@ function Stars(props) {
   
   useEffect(() => {
     const interval = setInterval(() => {
-      var random = Math.random() * (0.05 - 0.001) + 0.001;
+      var random = Math.random() * (0.009 - 0.001) + 0.001;
       setSize(random)
     }, 5000);
     return () => clearInterval(interval);
