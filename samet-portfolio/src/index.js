@@ -58,7 +58,6 @@ ReactDOM.render(
   <>
     <App />
     <Overlay />
-    <div>a;skjflkajsfklj</div>
   </>,
   document.getElementById('root')
 )
